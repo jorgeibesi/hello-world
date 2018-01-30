@@ -1,4 +1,4 @@
-# hello-world
+# Errores de programación
 It is a repository to ideas
 
 
